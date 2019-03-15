@@ -15,3 +15,5 @@ if __name__ == '__main__':
                 print(pline, end='')
             print(line, end='')
             print('-'*20)
+
+# consider file is list of lines already _ iterator
